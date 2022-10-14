@@ -19,7 +19,6 @@ int main()
         listaAdjacencia[v].push_back(u);
     }
 
-
     cout << "Hello World!" << endl; 
 
     return 0;
